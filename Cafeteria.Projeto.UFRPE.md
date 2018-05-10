@@ -39,7 +39,7 @@ REQ4. O sistema deve permitir o gerenciamento de usuários dos tipos: cliente e 
 
 REQ5.  O sistema deve permitir corrigir erros de registro por meio dos usuários do tipo: cliente e funcionário primário;
 
-REQ6. O sistema deve registrar as transações referentes a interação entre os usuários do tipo funcionários e os usuários do tipo cliente;
+REQ6. O sistema deve registrar as transações referentes a interação entre os usuários do tipo cliente e a entidade produto;
 
 REQ7. O sistema deve registrar o debito de produtos compradas pelo usuário do tipo cliente;
 
